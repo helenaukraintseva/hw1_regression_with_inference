@@ -1,0 +1,2 @@
+в сервисе представлены два эндпоинта  
+post/predict_items и post/predict_item
